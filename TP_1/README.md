@@ -1,6 +1,7 @@
  <h1><p align="center"> Atelier de programmation I - TP 1  </h1></p></font>
+![image](https://github.com/user-attachments/assets/7edb5fe7-fd42-45df-b86f-7affc8a7dfdf)
 
-# Exercices :
+# Exercices :pushpin:
 
 ### Exercice 1 
 Ecrire un programme C qui permet de lire deux nombres réels, et d'afficher ensuite Ieur somme et produit,
@@ -45,10 +46,10 @@ Commenter chaque ligne en donnant la fonction de chaque instruction
 ● Lit les coordonnées de deux points : X1 (x1, y1) et X2 (x2, y2).
 ● Affiche les données lues
 ● Calcule la distance d entre les deux points X1 et X2, avec la formule :
-***
+![image](https://github.com/user-attachments/assets/d2ec7023-b902-4fe4-9318-8fdf235e017a)
 ● Afficher le résultat à l'écran.
 
-# Compilation
+# Compilation :gear:
 | Files |  compilation              |
 | :-------- |  :------------------------- |
 | `exercice1.c` | gcc -o EX1 exercice1.c |
@@ -60,7 +61,8 @@ Commenter chaque ligne en donnant la fonction de chaque instruction
 | `exercice7.c` | gcc -o EX7 exercice7.c | 
 | `exercice8.c` | gcc -o EX8 exercice8.c -lm |
 
-# Authors
+***
+# Author :woman_technologist:
 
 - [@ChaimaBSlima](https://github.com/ChaimaBSlima)
 
