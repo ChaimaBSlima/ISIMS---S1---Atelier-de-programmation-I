@@ -25,4 +25,4 @@ gcc fichier.c -o fichier_executable
 
 
 # 🚀 About Me
-I'm a Machine Learning developer..
+I'm a Machine Learning developer.. 
