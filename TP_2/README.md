@@ -1,5 +1,6 @@
  <h1><p align="center"> Atelier de programmation I - TP 2  </h1></p></font>
  
+![image](https://github.com/user-attachments/assets/4ed89436-debf-4399-b1a3-197ae05d6aff)
 
 
 # Exercices :pushpin:
@@ -43,6 +44,7 @@ Le programme demande à l'utilisateur de saisir a, b et c puis d'afficher les r�
 ### Exercice 9
 Ecrire un programme qui lit les coordonnées des deux extrémités d’un segment, et lit ensuite les coordonnées d’un point dans le plan et dit si ce dernier se trouve ou non sur le segment.
 
+![image](https://github.com/user-attachments/assets/ccf373a3-68c9-4ae2-9949-af69a6d98b11)
 
 # Compilation :gear:
 | Files |  compilation              |
