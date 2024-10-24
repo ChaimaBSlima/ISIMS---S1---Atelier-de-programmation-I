@@ -47,6 +47,7 @@ S1= 1+2+3+4+5 ; S2=2+4 ; S3=1+3+5
 ### Exercice 4
 Afficher un triangle isocèle formé d'étoiles de N lignes :
 Exemple pour N=8 :
+
 ![image](https://github.com/user-attachments/assets/dbbb721b-187a-408b-9266-8304631a9bec)
 
 
