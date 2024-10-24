@@ -8,6 +8,7 @@ Bienvenue dans ce dépôt GitHub qui contient mes travaux pratiques (TP) de prog
 | :-------- |  :------------------------- |
 | `TP_1` | Introduction à la syntaxe du C et aux opérations de base.  |
 | `TP_2` | Structures conditionnelles en C.  |
+| `TP_3` | boucles itératives en C.  |
 
 # Compilation :gear:
 
