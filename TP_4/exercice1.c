@@ -96,13 +96,14 @@ void main(void)
 	if (supp1Occ(tableau, taille, nombre))
 	{
 		printf("Le nombre %d a été supprimé du tableau.\n", nombre);
+		taille = taille - 1;
 	}
 	else
 	{
 		printf("Le nombre %d n'a pas été trouvé dans le tableau.\n", nombre);
 	}
 	printf("Tableau après suppression : ");
-	for (int i = 0; i < taille - 1; i++)
+	for (int i = 0; i < taille ; i++)
 
 	{
 		printf("%d ", tableau[i]);
