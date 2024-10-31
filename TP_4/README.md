@@ -1,7 +1,7 @@
  <h1><p align="center"> Atelier de programmation I - TP 4  </h1></p></font>
  
 
-
+![image](https://github.com/user-attachments/assets/b5dbdc3d-4d40-49c6-9625-347631114f66)
 
 
 # Exercices :pushpin:
@@ -32,7 +32,8 @@ Ecrire un programme C permettant de remplir un tableau T par N entiers (max 50),
 On dispose de deux tableaux T1 et T2 contenant respectivement N et M entiers positifs et non nuls (2<=N<=20 et 2<=M<=20).
 On veut retrouver pour chaque élément de T1 ses diviseurs qui apparaissent dans T2.
 Exemple :
---
+
+![image](https://github.com/user-attachments/assets/a26725e6-602d-421d-973a-dbc7ce0e3895)
 
 ### Exercice 7 
 Ecrire un programme C qui prend une matrice réelle M (l lignes, c colonnes) et affiche la somme de chaque ligne et de chaque colonne en utilisant deux tableaux pour la somme (un tableau SL qui additionne les éléments de chaque ligne et un tableau SC qui additionne les éléments de chaque colonne).
@@ -45,6 +46,7 @@ Un tableau max contenant les valeurs maximales pour chaque ligne. Un tableau min
 ### Exercice 9
 Étant donné une matrice carrée de taille (n*n). Ecrire un programme pour déterminer si cette matrice est symétrique par rapport à la première diagonale.
 
+![image](https://github.com/user-attachments/assets/30be13ea-42f2-4886-ab99-9ae8f099af53)
 
 # Compilation :gear:
 | Files |  compilation              |
